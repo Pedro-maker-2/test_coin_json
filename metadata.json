@@ -1,0 +1,13 @@
+{
+  "name": "Dogecoin 2",
+  "symbol": "DG2",
+  "description": "Totally‑real meme coin on Devnet 😉",
+  "image": "https://i.imgur.com/QE2odNZ.png",
+  "decimals": 1,
+  "properties": {
+    "files": [{
+      "uri": "https://i.imgur.com/QE2odNZ.png",
+      "type": "image/png"
+    }]
+  }
+}
